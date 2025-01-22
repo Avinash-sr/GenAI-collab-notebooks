@@ -1,0 +1,13 @@
+langchain
+openai
+tiktoken
+rapidocr-onnxruntime
+langchain_community
+wikipedia
+bs4
+python-dotenv
+pypdf
+python-multipart
+langchain-pinecone 
+pinecone
+streamlit
